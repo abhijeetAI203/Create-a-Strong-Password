@@ -8,6 +8,7 @@
 
 To understand what makes a password strong by creating multiple passwords, testing them using an online strength checker, and analyzing the results.
 
+## Screenshots
 #All Password test results are save in ['/Screenshots'] as a visual proof of testing
 
 ---
