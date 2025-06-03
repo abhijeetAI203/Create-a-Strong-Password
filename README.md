@@ -40,6 +40,7 @@ To understand what makes a password strong by creating multiple passwords, testi
 - Consider using a *password manager* to generate and store complex passwords securely.
 ---
 ## 🛠 Tool Used
-- [https://passwordmeter.com/](https://passwordmeter.com/) – for strength checking and time-to-crack estimates.
+[(https://www.passwordmonster.com/)]
+– for strength checking and time-to-crack estimates.
 
 
